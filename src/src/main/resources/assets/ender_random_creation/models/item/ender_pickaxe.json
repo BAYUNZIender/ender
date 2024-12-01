@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "ender_random_creation:item/ender_pickaxe"
+  }
+}

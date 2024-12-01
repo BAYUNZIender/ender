@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:ender_pearl"
+    },
+    "B": {
+      "item": "ender_random_creation:ender_core"
+    }
+  },
+  "result": {
+    "item": "ender_random_creation:ender_amulet",
+    "count": 1
+  }
+}

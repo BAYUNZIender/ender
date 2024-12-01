@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="ender_random_creation"
+version="1.0.0"
+displayName="ender_random_creation"
+displayURL=""
+credits=""
+authors="ENDER"
+
+[[dependencies.ender_random_creation]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
